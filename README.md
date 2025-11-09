@@ -22,7 +22,7 @@
 CC BY-NC-SA 3.0 https://creativecommons.org/licenses/by-nc-sa/3.0/deed.ja
 
 ## Credit
-National Institute for Japanese Language and Linguistics (2025) WLSP-Property (ver. 1.0)
+National Institute for Japanese Language and Linguistics (2025) WLSP-norms (ver. 1.0)
 
 ## Contact
 kotonoha@ninjal.ac.jp
